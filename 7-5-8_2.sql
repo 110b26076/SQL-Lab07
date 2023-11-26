@@ -1,0 +1,7 @@
+CREATE TABLE Product2
+(
+P2_id CHAR(5),
+P2_name NVARCHAR(10) NOT NULL,
+Price2 INT,
+PRIMARY KEY(P2_id)
+)
